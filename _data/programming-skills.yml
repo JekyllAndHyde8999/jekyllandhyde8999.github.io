@@ -1,0 +1,15 @@
+- name: Python
+  percentage: 95
+  color: warning
+
+- name: R
+  percentage: 50
+  color: primary
+
+- name: Bash
+  percentage: 50
+  color: light
+
+- name: MIPS Assembly
+  percentage: 50
+  color: danger

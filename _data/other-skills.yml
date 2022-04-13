@@ -1,0 +1,15 @@
+- name: Deep Learning
+  percentage: 80
+  color: info
+
+- name: Data Science
+  percentage: 80
+  color: success
+
+- name: MySQL
+  percentage: 75
+  color: white
+
+- name: neo4j
+  percentage: 40
+  color: primary
