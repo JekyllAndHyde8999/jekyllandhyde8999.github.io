@@ -2,14 +2,14 @@
   percentage: 95
   color: warning
 
+- name: Keras
+  percentage: 85
+  color: light
+
+- name: PyTorch
+  percentage: 85
+  color: danger
+
 - name: R
   percentage: 50
   color: primary
-
-- name: Bash
-  percentage: 50
-  color: light
-
-- name: MIPS Assembly
-  percentage: 50
-  color: danger
